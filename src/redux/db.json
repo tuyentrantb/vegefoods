@@ -1,0 +1,86 @@
+{
+  "food": [
+    {
+      "title": "BELL PEPPER",
+      "image": "../images/product-1.jpg",
+      "price": 80.00,
+      "actualPrice": 120.00,
+      "id": "111"
+    },
+    {
+      "title": "STRAWBERRY",
+      "image": "../images/product-2.jpg",
+      "price": 120.00,
+      "actualPrice": 120.00,
+      "id": "112"
+    },
+    {
+      "title": "GREEN BEANS",
+      "image": "../images/product-3.jpg",
+      "price": 120.00,
+      "actualPrice": 120.00,
+      "id": "113"
+    },
+    {
+      "title": "PURPLE CABBAGE",
+      "image": "../images/product-4.jpg",
+      "price": 120.00,
+      "actualPrice": 120.00,
+      "id": "114"
+    },
+    {
+      "title": "TOMATOE",
+      "image": "../images/product-5.jpg",
+      "price": 80.00,
+      "actualPrice": 120.00,
+      "id": "115"
+    },
+    {
+      "title": "BROCOLLI",
+      "image": "../images/product-6.jpg",
+      "price": 120.00,
+      "actualPrice": 120.00,
+      "id": "116"
+    },
+    {
+      "title": "CARROTS",
+      "image": "../images/product-7.jpg",
+      "price": 120.00,
+      "actualPrice": 120.00,
+      "id": "117"
+    },
+    {
+      "title": "FRUIT JUICE",
+      "image": "../images/product-8.jpg",
+      "price": 120.00,
+      "actualPrice": 120.00,
+      "id": "118"
+    }
+  ],
+  "registeredUser": [
+    {
+      "id": 1,
+      "firstName": "Test",
+      "lastName": "One",
+      "email": "test.one@gmail.com",
+      "password": "1234"
+    }
+  ],
+
+  "cart": [
+    {
+      "title": "STRAWBERRY",
+      "image": "../images/product-2.jpg",
+      "price": 120.00,
+      "actualPrice": 120.00,
+      "id": "112"
+    },
+    {
+      "title": "GREEN BEANS",
+      "image": "../images/product-3.jpg",
+      "price": 120.00,
+      "actualPrice": 120.00,
+      "id": "113"
+    }
+  ]
+}
